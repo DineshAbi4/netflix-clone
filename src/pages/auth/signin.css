@@ -1,0 +1,17 @@
+
+.auth-page {
+    /* background: linear-gradient(to bottom,
+            rgba(61, 56, 56, 0.5) 0%,
+            rgba(5, 5, 5, 0.5) 50%),
+        url(./../../assets/banner.jpg) center/cover no-repeat; */
+    /* height: 170vh; */
+    background: url(../../assets/banner.jpg);
+    opacity: 0.9;
+
+}
+
+.footer {
+    /* background: transparent; */
+    margin-top: 20px;
+    height: 250px;
+}
